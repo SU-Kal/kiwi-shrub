@@ -9,9 +9,9 @@ https://youtu.be/D1FW54C6ooc
 + FFMPEG (Linux)
 
 ## How to use:
++ Add a piper voice model into the folder beside the main files (https://rhasspy.github.io/piper-samples/#en_GB-alan-medium)
 + Install packages with command: `pip install -r requirements.txt`
 + Then run command: `python main.py`
-
 
 ## To compile with pyinstaller:
 
